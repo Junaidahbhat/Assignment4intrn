@@ -1,6 +1,6 @@
-import turtle
+#Sample code for drawing this triangle.
 #scale used 1 unit of length in actual triangle=20  units of length in python
-
+import turtle
 turtle.forward(240)
 turtle.left(157.4)
 
